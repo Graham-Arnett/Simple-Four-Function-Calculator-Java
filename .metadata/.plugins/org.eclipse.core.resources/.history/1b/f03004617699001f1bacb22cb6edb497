@@ -1,0 +1,19 @@
+package calculator;
+import java.util.Scanner;
+public class SimpleCalculator {
+
+	public static void main(String[] args) {
+		//this is a simple 4 function calculator app
+		//you enter two numbers, and then decide what operation to perform on them, I'll make a more complex one in the future
+		
+		Scanner scanner = new Scanner(System.in);
+		String choice;
+		do 
+		{
+			
+			System.out.print("Would you like to go again? (y/n): ");
+			choice = scanner.next();
+		}(choice.equalsIgnoreCase("y"));
+	}
+
+}

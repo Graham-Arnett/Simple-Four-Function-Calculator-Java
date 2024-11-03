@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\repos\max\practice\java\simple 4 function calculator\.metadata\.plugins\org.eclipse.jdt.core
+3332057118.index
+1865797976.index
+3661727006.index
